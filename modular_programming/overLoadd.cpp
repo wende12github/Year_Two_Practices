@@ -1,5 +1,8 @@
 //Solution by WENDMAGEGN T.
 //Software Engineer.
+
+//Questions 1. /*Write a function based program to find the square of integer and rational number.*/ 
+               /*Use two function of the same name that accept integer and double parameters by reference.*/
 #include<iostream>
 using namespace std;
 
